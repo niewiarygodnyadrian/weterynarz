@@ -15,4 +15,4 @@ wlazł kotek a płotek i mruga
 - Wyszukiwarka
   > Wyszukiwanie zwierzęcia po ID, imieniu lub ID właściciela.
   
-Całość robiona na czas, całkowicie wylane na jakikolwiek sens i estetyke, byle działało.
+Całość robiona na czas ( 3.5h ), całkowicie wylane na jakikolwiek sens i estetyke, byle działało.
