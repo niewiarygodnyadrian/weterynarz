@@ -14,3 +14,5 @@ wlazł kotek a płotek i mruga
   > Usuwanie zwierzęcia bez konieczności usuwania klienta.
 - Wyszukiwarka
   > Wyszukiwanie zwierzęcia po ID, imieniu lub ID właściciela.
+  
+Całość robiona na czas, całkowicie wylane na jakikolwiek sens i estetyke, byle działało.
