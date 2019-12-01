@@ -2,7 +2,7 @@
 wlazł kotek a płotek i mruga
 
 - Rejestracja oraz logowanie,
-  > Mozliwość podpięcia Captcha od Google.
+  > Mozliwość podpięcia Captcha od Google,
   > Szyfrowane hasła MD5,
   > Ochrona przed SQL injection.
 - Łatwe dodawanie klientów / zwierząt poprzez formularz w panelu.
